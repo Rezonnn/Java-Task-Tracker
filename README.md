@@ -2,7 +2,7 @@
 
 A small **Java desktop application** built with **Swing** that lets you manage a simple task list with persistence to a local file.
 
-This is great for your GitHub as a **Java desktop GUI project**, demonstrating:
+This **Java desktop GUI project** demonstrates:
 
 - Java + Swing UI
 - Custom model class (`Task`)
@@ -103,21 +103,3 @@ java_task_tracker_swing/
                   ├─ TaskRepository.java
                   └─ TaskTrackerApp.java
 ```
-
----
-
-## 🌟 Why this is a good portfolio project
-
-This project shows that you can:
-
-- Build a **desktop GUI** in Java
-- Structure code into models, a repository, and a UI layer
-- Use **Swing** components: `JFrame`, `JList`, `JTextField`, `JButton`, `JScrollPane`, `JLabel`
-- Handle basic persistence with **file I/O** and simple serialization
-
-You can extend it later with:
-
-- Editing task titles
-- Due dates and priorities
-- Sorting and filtering
-- Export/import to JSON
